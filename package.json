@@ -1,0 +1,25 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "a cool tweet app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maubertw/twitter-js.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Mary and Vi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maubertw/twitter-js/issues"
+  },
+  "homepage": "https://github.com/maubertw/twitter-js#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
