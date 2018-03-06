@@ -4,7 +4,8 @@
   "description": "a cool tweet app",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,8 @@
   },
   "homepage": "https://github.com/maubertw/twitter-js#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "chalk": "^2.3.2",
+    "express": "^4.16.2",
+    "volleyball": "^1.4.1"
   }
 }
